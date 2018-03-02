@@ -1,3 +1,4 @@
+#!/usr/bin/env python2.7
 import os, zipfile, argparse
 from sys import *
 from multiprocessing import Process, Semaphore, Value, Queue
